@@ -1,0 +1,17 @@
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\bin\Debug\net7.0\Tutorial.Infrastructure.Persistence.deps.json
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\bin\Debug\net7.0\Tutorial.Infrastructure.Persistence.runtimeconfig.json
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\bin\Debug\net7.0\Tutorial.Infrastructure.Persistence.dll
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\bin\Debug\net7.0\Tutorial.Infrastructure.Persistence.pdb
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\bin\Debug\net7.0\Tutorial.Domain.dll
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\bin\Debug\net7.0\Tutorial.Domain.pdb
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\obj\Debug\net7.0\Tutorial.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\obj\Debug\net7.0\Tutorial.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\obj\Debug\net7.0\Tutorial.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\obj\Debug\net7.0\Tutorial.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\obj\Debug\net7.0\Tutorial.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\obj\Debug\net7.0\Tutorial.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\obj\Debug\net7.0\Tutorial.Infrastructure.Persistence.dll
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\obj\Debug\net7.0\refint\Tutorial.Infrastructure.Persistence.dll
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\obj\Debug\net7.0\Tutorial.Infrastructure.Persistence.pdb
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\obj\Debug\net7.0\Tutorial.Infrastructure.Persistence.genruntimeconfig.cache
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Infrastructure.Persistence\obj\Debug\net7.0\ref\Tutorial.Infrastructure.Persistence.dll

@@ -1,0 +1,12 @@
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\bin\Debug\net7.0\Tutorial.Application.deps.json
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\bin\Debug\net7.0\Tutorial.Application.dll
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\bin\Debug\net7.0\Tutorial.Application.pdb
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\obj\Debug\net7.0\Tutorial.Application.csproj.AssemblyReference.cache
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\obj\Debug\net7.0\Tutorial.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\obj\Debug\net7.0\Tutorial.Application.AssemblyInfoInputs.cache
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\obj\Debug\net7.0\Tutorial.Application.AssemblyInfo.cs
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\obj\Debug\net7.0\Tutorial.Application.csproj.CoreCompileInputs.cache
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\obj\Debug\net7.0\Tutorial.Application.dll
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\obj\Debug\net7.0\refint\Tutorial.Application.dll
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\obj\Debug\net7.0\Tutorial.Application.pdb
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\obj\Debug\net7.0\ref\Tutorial.Application.dll
