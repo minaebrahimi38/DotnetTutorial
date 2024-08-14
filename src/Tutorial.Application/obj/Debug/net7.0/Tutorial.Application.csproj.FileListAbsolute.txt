@@ -10,3 +10,6 @@ C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\obj\Debug\net7.0
 C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\obj\Debug\net7.0\refint\Tutorial.Application.dll
 C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\obj\Debug\net7.0\Tutorial.Application.pdb
 C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\obj\Debug\net7.0\ref\Tutorial.Application.dll
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\bin\Debug\net7.0\Tutorial.Domain.dll
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\bin\Debug\net7.0\Tutorial.Domain.pdb
+C:\Users\1003283\source\repos\Tutorial\src\Tutorial.Application\obj\Debug\net7.0\Tutorial.Application.csproj.CopyComplete

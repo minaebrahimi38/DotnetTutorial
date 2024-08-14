@@ -459,6 +459,26 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "Microsoft.Extensions.Options.DataAnnotations/7.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
+          "Microsoft.Extensions.Options": "7.0.0"
+        },
+        "compile": {
+          "lib/net7.0/Microsoft.Extensions.Options.DataAnnotations.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.Extensions.Options.DataAnnotations.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
       "Microsoft.Extensions.Primitives/7.0.0": {
         "type": "package",
         "compile": {
@@ -1189,9 +1209,26 @@
           }
         }
       },
+      "Tutorial.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Tutorial.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Tutorial.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tutorial.Application.dll": {}
+        }
+      },
       "Tutorial.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.20",
+          "Microsoft.Extensions.Options.DataAnnotations": "7.0.0"
+        },
         "compile": {
           "bin/placeholder/Tutorial.Domain.dll": {}
         },
@@ -1204,6 +1241,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.20",
+          "Tutorial.Application": "1.0.0",
           "Tutorial.Domain": "1.0.0"
         },
         "compile": {
@@ -2084,6 +2122,35 @@
         "lib/netstandard2.1/Microsoft.Extensions.Options.xml",
         "microsoft.extensions.options.7.0.0.nupkg.sha512",
         "microsoft.extensions.options.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.Options.DataAnnotations/7.0.0": {
+      "sha512": "57cONN+EcyypxCmDlaJOL7tdeYMiRNVZmv2m7hi41zAu03p+r6jbGTx7bykg3o4GYPRQjsi0FGhjLn5XuVHM1Q==",
+      "type": "package",
+      "path": "microsoft.extensions.options.dataannotations/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.Options.DataAnnotations.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.Options.DataAnnotations.targets",
+        "lib/net462/Microsoft.Extensions.Options.DataAnnotations.dll",
+        "lib/net462/Microsoft.Extensions.Options.DataAnnotations.xml",
+        "lib/net6.0/Microsoft.Extensions.Options.DataAnnotations.dll",
+        "lib/net6.0/Microsoft.Extensions.Options.DataAnnotations.xml",
+        "lib/net7.0/Microsoft.Extensions.Options.DataAnnotations.dll",
+        "lib/net7.0/Microsoft.Extensions.Options.DataAnnotations.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Options.DataAnnotations.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Options.DataAnnotations.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.Options.DataAnnotations.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.Options.DataAnnotations.xml",
+        "microsoft.extensions.options.dataannotations.7.0.0.nupkg.sha512",
+        "microsoft.extensions.options.dataannotations.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
@@ -3432,6 +3499,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Tutorial.Application/1.0.0": {
+      "type": "project",
+      "path": "../Tutorial.Application/Tutorial.Application.csproj",
+      "msbuildProject": "../Tutorial.Application/Tutorial.Application.csproj"
+    },
     "Tutorial.Domain/1.0.0": {
       "type": "project",
       "path": "../Tutorial.Domain/Tutorial.Domain.csproj",
@@ -3450,6 +3522,7 @@
       "Microsoft.EntityFrameworkCore.InMemory >= 7.0.20",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.20",
       "Swashbuckle.AspNetCore >= 6.5.0",
+      "Tutorial.Application >= 1.0.0",
       "Tutorial.Infrastructure.Persistence >= 1.0.0"
     ]
   },
@@ -3480,6 +3553,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\1003283\\source\\repos\\Tutorial\\src\\Tutorial.Application\\Tutorial.Application.csproj": {
+              "projectPath": "C:\\Users\\1003283\\source\\repos\\Tutorial\\src\\Tutorial.Application\\Tutorial.Application.csproj"
+            },
             "C:\\Users\\1003283\\source\\repos\\Tutorial\\src\\Tutorial.Infrastructure.Persistence\\Tutorial.Infrastructure.Persistence.csproj": {
               "projectPath": "C:\\Users\\1003283\\source\\repos\\Tutorial\\src\\Tutorial.Infrastructure.Persistence\\Tutorial.Infrastructure.Persistence.csproj"
             }

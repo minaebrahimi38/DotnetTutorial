@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OJO0Uj0nkJKYH1Uwff9aXLZP2fQ2d3Rg7PWxp2qbdoUYHf/ITeMaNA/0Z7yu4fU7sPB9eWeZinEmld5pbzha3A==",
+  "dgSpecHash": "wsjdAdEEE+YXOFVss9fP2fBDc1VRAF0DxQyIBTaDNiFcdeoxwLyz7BrtD94RbH/xlTAPR+zEqioKsCHfAVWYRg==",
   "success": true,
   "projectFilePath": "C:\\Users\\1003283\\source\\repos\\Tutorial\\src\\Tutorial.Infrastructure.Persistence\\Tutorial.Infrastructure.Persistence.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\1003283\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\1003283\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\1003283\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\1003283\\.nuget\\packages\\microsoft.extensions.options.dataannotations\\7.0.0\\microsoft.extensions.options.dataannotations.7.0.0.nupkg.sha512",
     "C:\\Users\\1003283\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\1003283\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\1003283\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",

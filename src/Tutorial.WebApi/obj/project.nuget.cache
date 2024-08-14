@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wMBrpfaqJ3+LG9NHbBw09/u5cIIE1I0ZHFszhc4PNeGYlan9192pLvJAs+LUfofyqiLlWGjECNSahdHdpwVfcA==",
+  "dgSpecHash": "qr/NX+RXuaROs7nKNokLM+WjoDFSBGRtapg71xIODKh8CCnSfTJUySSSs/bezhmAa4BUxFW+qz4Tfgk81cZObw==",
   "success": true,
   "projectFilePath": "C:\\Users\\1003283\\source\\repos\\Tutorial\\src\\Tutorial.WebApi\\Tutorial.WebApi.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,7 @@
     "C:\\Users\\1003283\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\1003283\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\1003283\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\1003283\\.nuget\\packages\\microsoft.extensions.options.dataannotations\\7.0.0\\microsoft.extensions.options.dataannotations.7.0.0.nupkg.sha512",
     "C:\\Users\\1003283\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\1003283\\.nuget\\packages\\microsoft.identity.client\\4.56.0\\microsoft.identity.client.4.56.0.nupkg.sha512",
     "C:\\Users\\1003283\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.56.0\\microsoft.identity.client.extensions.msal.4.56.0.nupkg.sha512",
